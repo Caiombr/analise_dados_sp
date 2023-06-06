@@ -1,4 +1,6 @@
-<h1 align="center"> Analise de dados voltada ao mercado imobiliário </h1> 
+<h1 align="center"> Analise e predição de dados no mercado imobiliário de São Paulo/SP</h1> 
+
+<p align="center"> O intuito desse projeto é a criação de uma analise preditiva para encontrar o valor de um imóvel com base em variáveis e um database focado no Quinto Andar</p>
 
 Olha, eu não terminei o projeto ainda. Eu travei quando a questão foi sobre qual o melhor modelo escolher para a finalidade em questão. 
 
