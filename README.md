@@ -1,6 +1,32 @@
 <h1 align="center"> Analise e predição de dados no mercado imobiliário de São Paulo/SP</h1> 
 
-<p align="center"> O intuito desse projeto é a criação de uma analise preditiva para encontrar o valor de um imóvel com base em variáveis e um database focado no Quinto Andar</p>
+<p> O intuito desse projeto é a criação de uma analise preditiva para encontrar o valor de um imóvel com base em variáveis e um database focado na empresa Quinto Andar e Rede Social de Cidades.</p>
+
+<h2>Etapas do projeto</h2>
+
+<h3>0. Motivação</h3>
+
+<p>Supondo que há o desejo de compra ou aquisição de um imóvel. Para isso, é preciso encontrar um modelo para que seja possivel, por meio de variáveis bem delimitadas, encontrar o valor de acordo com variáveis diversas desde caracteristicas do imóvel até o IDH da região.</p>
+
+<h3>1. Coleta de Dados</h3>
+
+<p></p>
+
+<h3>2. Exploração dos Dados</h3>
+
+<p></p>
+
+<h3>3. Modelagem de Dados</h3>
+
+<p></p>
+
+<h3>4. Visualização</h3>
+
+<p></p>
+
+<h3>5. Resultado</h3>
+
+<p></p>
 
 Olha, eu não terminei o projeto ainda. Eu travei quando a questão foi sobre qual o melhor modelo escolher para a finalidade em questão. 
 
