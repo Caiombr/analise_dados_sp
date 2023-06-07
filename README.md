@@ -32,4 +32,17 @@
 
 <li>Python</li>
 <li>Jupyter Notebook</li>
-<ul>Pacotes e Bibliotecas</ul>
+<li>Pacotes e Bibliotecas</li>
+<ul>Requests</ul>
+<ul>BeautifulSoup</ul>
+<ul>Pandas</ul>
+<ul>Seaborn</ul>
+<ul>Numpy</ul>
+<ul>Geopandas</ul>
+<ul>Geopy e Nominatim</ul>
+<ul>Matplotlib</ul>
+<ul>Scikit-learn</ul>
+
+<h2>Contato</h2>
+<p>Caio Marques - <a href="https://www.linkedin.com/in/caiombr/">LinkedIn</a></p>
+
